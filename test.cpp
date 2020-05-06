@@ -3,7 +3,7 @@
 int imain()
 {
   printf("hello\n");
-  for(int it = 0; i < 1000; i++){
+  for(int it = 0; i < 100; i++){
     printf("world\n");
   }
 }
